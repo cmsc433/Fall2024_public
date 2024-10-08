@@ -1,4 +1,4 @@
-// An annotated d Dafny program
+// An annotated Dafny program
 
 method QuotDiv (m : int, n : int) returns (x : int, y : int)
   requires n > 0
